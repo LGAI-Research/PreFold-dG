@@ -1,0 +1,19 @@
+s_inputs_encoder_hidden_dim: 198
+s_inputs_encoder_dropout: .25
+s_encoder_hidden_dim: 198
+s_encoder_dropout: .25
+z_encoder_dropout: .1
+embed_dim: 24
+predictor_hidden_dim: 32
+
+device: cuda:0
+seed: 42
+epochs: 50
+batch_size: 64
+learning_rate: .0001
+weight_decay: .0001
+
+train_data: skempi
+split: data/split/rdenet.csv
+train_folds: [0, 1, 2]
+group_min_size: 10
