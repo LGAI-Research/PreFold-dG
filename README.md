@@ -27,9 +27,9 @@ We share preprocessed files for the datasets used in the paper. Due to file size
 
 | File | Link |
 |---|---|
-| `processed_data/skempi_mut.pkl` | [Download](https://drive.google.com/file/d/1nHxtEAh6ZtJJH_CUcCgJiZSSTCwLZdi9) |
-| `processed_data/skempi_wt.pkl` | [Download](https://drive.google.com/file/d/18uyOFD2yrl67dg6cCkWDyMeSieClzaoW) |
-| `processed_data/her2.pkl` | [Download](https://drive.google.com/file/d/1kppaABulyeT_dwF6ArfA5M5A_wG6UMuw) |
+| `processed_data/skempi_mut.pkl` | [Download](https://zenodo.org/records/20236663/files/skempi_mut.pkl?download=1) |
+| `processed_data/skempi_wt.pkl` | [Download](https://zenodo.org/records/20236663/files/skempi_wt.pkl?download=1) |
+| `processed_data/her2.pkl` | [Download](https://zenodo.org/records/20236663/files/her2.pkl?download=1) |
 
 
 ## Data Sources
